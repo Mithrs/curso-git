@@ -1,0 +1,11 @@
+C:\Users\natoh\source\repos\Projeto_teste\Projeto_teste\bin\Debug\netcoreapp2.1\Projeto_teste.deps.json
+C:\Users\natoh\source\repos\Projeto_teste\Projeto_teste\bin\Debug\netcoreapp2.1\Projeto_teste.runtimeconfig.json
+C:\Users\natoh\source\repos\Projeto_teste\Projeto_teste\bin\Debug\netcoreapp2.1\Projeto_teste.runtimeconfig.dev.json
+C:\Users\natoh\source\repos\Projeto_teste\Projeto_teste\bin\Debug\netcoreapp2.1\Projeto_teste.dll
+C:\Users\natoh\source\repos\Projeto_teste\Projeto_teste\bin\Debug\netcoreapp2.1\Projeto_teste.pdb
+C:\Users\natoh\source\repos\Projeto_teste\Projeto_teste\obj\Debug\netcoreapp2.1\Projeto_teste.csprojAssemblyReference.cache
+C:\Users\natoh\source\repos\Projeto_teste\Projeto_teste\obj\Debug\netcoreapp2.1\Projeto_teste.csproj.CoreCompileInputs.cache
+C:\Users\natoh\source\repos\Projeto_teste\Projeto_teste\obj\Debug\netcoreapp2.1\Projeto_teste.AssemblyInfoInputs.cache
+C:\Users\natoh\source\repos\Projeto_teste\Projeto_teste\obj\Debug\netcoreapp2.1\Projeto_teste.AssemblyInfo.cs
+C:\Users\natoh\source\repos\Projeto_teste\Projeto_teste\obj\Debug\netcoreapp2.1\Projeto_teste.dll
+C:\Users\natoh\source\repos\Projeto_teste\Projeto_teste\obj\Debug\netcoreapp2.1\Projeto_teste.pdb
